@@ -15,7 +15,7 @@ public class Wordlegame{
     }
 
 public static void main(String[] args){
-    System.out.println("WORDLE!");
+    System.out.println("WORDLE! NEW FEATURE!!!!!");
     System.out.println("You have 6 guesses");
 
     Scanner fileScanner = new Scanner(Wordlegame.class.getResourceAsStream("words.txt"));
